@@ -63,7 +63,7 @@ The table below highlights leading commercial SaaS and cloud-hosted Security Dat
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top-tier open-source GitHub projects powering modern security data lakes, analytics, and telemetry pipelines, sorted by **GitHub Star Count** (descending). Star count badges link directly to each repository's stargazers page.
+Below are top-tier open-source GitHub projects powering modern security data lakes, analytics, and telemetry pipelines, sorted by **GitHub Stars_Count** (descending). Stars_Count badges link directly to each repository's stargazers page.
 
 ### 🛡️ Security Data Lake & SIEM Platforms
 
